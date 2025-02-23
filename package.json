@@ -24,5 +24,11 @@
   "homepage": "https://github.com/JuanNicolasRandazzo/Node-Practice-Projects#readme",
   "dependencies": {
     "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
   }
 }
