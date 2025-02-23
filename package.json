@@ -1,0 +1,25 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "The best way to learn and practice Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanNicolasRandazzo/Node-Practice-Projects.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "js"
+  ],
+  "author": "Juan Nicolas Randazzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanNicolasRandazzo/Node-Practice-Projects/issues"
+  },
+  "homepage": "https://github.com/JuanNicolasRandazzo/Node-Practice-Projects#readme"
+}
