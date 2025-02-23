@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JuanNicolasRandazzo/Node-Practice-Projects/issues"
   },
-  "homepage": "https://github.com/JuanNicolasRandazzo/Node-Practice-Projects#readme"
+  "homepage": "https://github.com/JuanNicolasRandazzo/Node-Practice-Projects#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  }
 }
